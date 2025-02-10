@@ -1,6 +1,5 @@
 # grocery-store
 This project is 3 tier application:
-
     I.Front end: UI is written in HTML/CSS/Javascript/Bootstrap
     Ⅱ.Backend: Python and Flask
     Ⅲ.Database: mysql
